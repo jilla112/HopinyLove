@@ -235,7 +235,7 @@ export default function Story() {
       id: 3,
       title: "Falling Deeper",
       content: "I didn't just fall for you... I fell into you, and now I never want to climb back out. My heart would race at the sound of your voice, and your smile became my favorite sight.",
-      imageUrl: "https://github.com/jilla112/HopinyLove/raw/main/client/3rd.jpg",
+      imageUrl: "https://github.com/jilla112/HopinyLove/raw/main/client/new3rd.jpg",
       order: 3
     },
   ];
