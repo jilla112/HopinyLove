@@ -76,7 +76,7 @@ export default function Memories() {
   const displayMemories = (memories && memories.length > 0) ? memories : [
     {
       id: 1,
-      url: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&q=80",
+      url: "https://github.com/jilla112/HopinyLove/raw/main/client/smile.jpg",
       type: "image",
       caption: "The way you smile",
       date: "Always",
