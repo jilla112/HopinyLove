@@ -221,21 +221,21 @@ export default function Story() {
       id: 1,
       title: "The First Glance",
       content: "That one day, that one glance... the way you looked at me - I swear, I fell for you instantly. In that very second, somthing deep inside me changed forever. And from that movement... it was always you",
-      imageUrl: "https://images.unsplash.com/photo-1627964464837-6328f5931576?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y291cGxlc3xlbnwwfHwwfHx8MA%3D%3D",
+      imageUrl: "https://github.com/jilla112/HopinyLove/raw/main/client/1st.jpg",
       order: 1
     },
     {
       id: 2,
       title: "Growing Closer",
       content: "Somewhere between our conversations and laughter, you quietly became my happiness. and you became my favorite place.",
-      imageUrl: "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y291cGxlc3xlbnwwfHwwfHx8MA%3D%3D",
+      imageUrl: "https://github.com/jilla112/HopinyLove/raw/main/client/2nd.jpg",
       order: 2
     },
     {
       id: 3,
       title: "Falling Deeper",
       content: "I didn't just fall for you... I fell into you, and now I never want to climb back out. My heart would race at the sound of your voice, and your smile became my favorite sight.",
-      imageUrl: "https://images.unsplash.com/photo-1555689070-b25ef81cc3ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNvdXBsZXN8ZW58MHx8MHx8fDA%3D",
+      imageUrl: "https://github.com/jilla112/HopinyLove/raw/main/client/3rd.jpg",
       order: 3
     },
   ];
