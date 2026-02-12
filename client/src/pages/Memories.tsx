@@ -83,14 +83,14 @@ export default function Memories() {
     },
     {
       id: 2,
-      url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&q=80",
+      url: "https://github.com/jilla112/HopinyLove/raw/main/client/First%20Gift.jpg",
       type: "image",
       caption: "First Gift",
       rotation: 3
     },
     {
       id: 3,
-      url: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
+      url: "https://github.com/jilla112/HopinyLove/raw/main/client/First%20theft.jpg",
       type: "image",
       caption: "Our First theft",
       rotation: -4
@@ -104,7 +104,7 @@ export default function Memories() {
     },
     {
       id: 5,
-      url: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
+      url: "https://github.com/jilla112/HopinyLove/raw/main/client/bday.jpg",
       type: "image",
       caption: "Surprises",
       rotation: 5
