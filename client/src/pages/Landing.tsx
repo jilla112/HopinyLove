@@ -179,7 +179,7 @@ export default function Landing() {
             animate={{ opacity: [0.7, 1, 0.7] }}
             transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
           >
-            I've been carrying this in my heart for so long…
+            I've been carrying this in my heart for so long dii chellam…
           </motion.span>
 
           <motion.div
@@ -285,7 +285,7 @@ export default function Landing() {
               exit={{ opacity: 0, y: -10 }}
               className="absolute -bottom-12 sm:-bottom-16 left-1/2 -translate-x-1/2 text-rose-600 font-handwriting text-lg sm:text-xl whitespace-nowrap"
             >
-              Yes, this is for you ♡
+              Yes, this is for you dii littu ♡
             </motion.p>
           )}
         </motion.div>
@@ -302,12 +302,9 @@ export default function Landing() {
             transition={{ duration: 2.5, repeat: Infinity, ease: "easeInOut" }}
             className="text-rose-600/80 font-handwriting text-base sm:text-lg"
           >
-            Click the heart when you're ready…
+            Are you ready pattu…
           </motion.p>
           
-          <p className="text-pink-500/60 text-xs sm:text-sm italic">
-            (Some feelings are too precious to rush)
-          </p>
         </motion.div>
 
         {/* Bottom decorative element */}
