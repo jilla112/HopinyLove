@@ -220,21 +220,21 @@ export default function Story() {
     {
       id: 1,
       title: "The First Glance",
-      content: "From the moment our eyes met, I knew there was something extraordinary about you. Time seemed to stand still, and in that instant, everything changed.",
+      content: "That one day, that one glance... the way you looked at me - I swear, I fell for you instantly. In that very second, somthing deep inside me changed forever. And from that movement... it was always you",
       imageUrl: "https://images.unsplash.com/photo-1627964464837-6328f5931576?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y291cGxlc3xlbnwwfHwwfHx8MA%3D%3D",
       order: 1
     },
     {
       id: 2,
       title: "Growing Closer",
-      content: "Every conversation, every shared laugh, every quiet moment together brought us closer. I found myself looking forward to seeing you, thinking about you constantly.",
+      content: "Somewhere between our conversations and laughter, you quietly became my happiness. and you became my favorite place.",
       imageUrl: "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y291cGxlc3xlbnwwfHwwfHx8MA%3D%3D",
       order: 2
     },
     {
       id: 3,
       title: "Falling Deeper",
-      content: "Somewhere along the way, friendship blossomed into something more. My heart would race at the sound of your voice, and your smile became my favorite sight.",
+      content: "I didn't just fall for you... I fell into you, and now I never want to climb back out. My heart would race at the sound of your voice, and your smile became my favorite sight.",
       imageUrl: "https://images.unsplash.com/photo-1555689070-b25ef81cc3ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNvdXBsZXN8ZW58MHx8MHx8fDA%3D",
       order: 3
     },
@@ -388,7 +388,7 @@ export default function Story() {
               transition={{ duration: 0.7, delay: 0.15 }}
               className="font-handwriting text-lg sm:text-xl md:text-2xl mb-3 text-pink-600"
             >
-              But wait, there's more to our story...
+              But wait bubu, there's more to our story...
             </motion.p>
 
             <Link href="/memories">
