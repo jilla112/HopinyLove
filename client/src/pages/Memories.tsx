@@ -97,7 +97,7 @@ export default function Memories() {
     },
     {
       id: 4,
-      url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&q=80",
+      url: "https://github.com/jilla112/HopinyLove/raw/main/client/sunrise.jpg",
       type: "image",
       caption: "Chasing sunsets",
       rotation: 2
@@ -111,7 +111,7 @@ export default function Memories() {
     },
     {
       id: 6,
-      url: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&q=80",
+      url: "https://github.com/jilla112/HopinyLove/raw/main/client/church.jpg",
       type: "image",
       caption: "Church dates",
       rotation: -3
