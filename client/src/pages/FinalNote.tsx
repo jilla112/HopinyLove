@@ -154,7 +154,7 @@ export default function FinalNote() {
               </motion.div>
 
               <h1 className="font-handwriting text-2xl sm:text-3xl md:text-4xl text-transparent bg-clip-text bg-gradient-to-r from-amber-700 via-rose-600 to-pink-600">
-                My Bubu {name || "(Littu)"}
+                My Bubu {(Littu) || "Love"}
               </h1>
 
               <div className="flex items-center justify-center gap-2">
