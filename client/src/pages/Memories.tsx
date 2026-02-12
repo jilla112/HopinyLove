@@ -79,23 +79,20 @@ export default function Memories() {
       url: "https://github.com/jilla112/HopinyLove/raw/main/client/smile.jpg",
       type: "image",
       caption: "The way you smile",
-      date: "Always",
       rotation: -2
     },
     {
       id: 2,
       url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&q=80",
       type: "image",
-      caption: "Beautiful moments",
-      date: "Spring 2023",
+      caption: "First Gift",
       rotation: 3
     },
     {
       id: 3,
       url: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
       type: "image",
-      caption: "Never letting go",
-      date: "Forever",
+      caption: "Our First theft",
       rotation: -4
     },
     {
@@ -103,7 +100,6 @@ export default function Memories() {
       url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&q=80",
       type: "image",
       caption: "Chasing sunsets",
-      date: "Summer Vacation",
       rotation: 2
     },
     {
@@ -111,15 +107,13 @@ export default function Memories() {
       url: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
       type: "image",
       caption: "Surprises",
-      date: "Your Birthday",
       rotation: 5
     },
     {
       id: 6,
       url: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&q=80",
       type: "image",
-      caption: "Coffee dates",
-      date: "Every Weekend",
+      caption: "Church dates",
       rotation: -3
     }
   ];
