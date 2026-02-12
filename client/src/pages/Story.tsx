@@ -221,7 +221,7 @@ export default function Story() {
       id: 1,
       title: "The First Glance",
       content: "That one day, that one glance... the way you looked at me - I swear, I fell for you instantly. In that very second, somthing deep inside me changed forever. And from that movement... it was always you",
-      imageUrl: "https://github.com/jilla112/HopinyLove/raw/main/client/1st.jpg",
+      imageUrl: "https://github.com/jilla112/HopinyLove/raw/main/client/ourpic1.jpg",
       order: 1
     },
     {
