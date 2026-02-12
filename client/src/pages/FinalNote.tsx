@@ -67,7 +67,7 @@ export default function FinalNote() {
     window.scrollTo({ top: 0, behavior: "instant" });
   }, []);
 
-  const fullText = "Loving you is not something I do—it's who I am. In every breath, every silence, every tomorrow, it's you. Happy Valentine's Day to the one my heart chose long before I ever understood love.";
+  const fullText = "I don't just love you,Bubu... I live in you. Your smile is my favorite view, your voice is my favorite sound, and your love is my favorite place place. No matter where life takes us, this Dudu will always belong to you♡. da da da da da... da da da da da... da da da da da";
 
   // Optimized typing effect
   useEffect(() => {
@@ -154,7 +154,7 @@ export default function FinalNote() {
               </motion.div>
 
               <h1 className="font-handwriting text-2xl sm:text-3xl md:text-4xl text-transparent bg-clip-text bg-gradient-to-r from-amber-700 via-rose-600 to-pink-600">
-                My Dearest {name || "Love"}
+                My Sweet Bubu {name || "Love"}
               </h1>
 
               <div className="flex items-center justify-center gap-2">
@@ -211,7 +211,7 @@ export default function FinalNote() {
               </div>
 
               <p className="font-handwriting text-xl sm:text-2xl md:text-3xl text-transparent bg-clip-text bg-gradient-to-r from-rose-600 to-pink-600">
-                Forever Yours
+                Forever Your Dudu
               </p>
 
               <motion.div
@@ -262,11 +262,11 @@ export default function FinalNote() {
             transition={{ duration: 2.5, repeat: Infinity }}
             className="font-handwriting text-base sm:text-lg md:text-xl text-pink-600"
           >
-            Happy Valentine's Day ♡
+            ♡ Happy Valentine's Day ♡
           </motion.p>
           
           <p className="text-xs sm:text-sm text-gray-500 italic">
-            Made with love, just for you
+            Made with love, just for you baby
           </p>
         </motion.div>
       </div>
