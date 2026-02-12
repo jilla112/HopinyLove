@@ -67,7 +67,7 @@ export default function FinalNote() {
     window.scrollTo({ top: 0, behavior: "instant" });
   }, []);
 
-  const fullText = "I don't just love you,Bubu... I live in you. Your smile is my favorite view, your voice is my favorite sound, and your love is my favorite place. No matter where life takes us, this Dudu will always belong to you. dada dada da... dada dada da... dada dada da";
+  const fullText = "I don't just love you,Bubu... I live in you. Your smile is my favorite view, your voice is my favorite sound, and your love is my favorite place. No matter where life takes us, this Dudu will always belong to you. da da da da da... da da da da da... da da da da da";
 
   // Optimized typing effect
   useEffect(() => {
