@@ -99,7 +99,7 @@ export default function Memories() {
       id: 4,
       url: "https://github.com/jilla112/HopinyLove/raw/main/client/sunrise.jpg",
       type: "image",
-      caption: "Chasing sunsets",
+      caption: "Chasing the first light",
       rotation: 2
     },
     {
