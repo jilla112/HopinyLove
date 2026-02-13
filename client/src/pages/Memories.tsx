@@ -83,7 +83,7 @@ export default function Memories() {
     },
     {
       id: 2,
-      url: "https://github.com/jilla112/HopinyLove/raw/main/client/First%20Gift.jpg",
+      url: "https://github.com/jilla112/HopinyLove/raw/main/client/1gift.jpg",
       type: "image",
       caption: "First Gift",
       rotation: 3
