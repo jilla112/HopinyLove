@@ -57,7 +57,7 @@ export default function Surprise() {
     })();
   };
 
-  const surpriseText = "You are the best gift I could ever ask for. But this isn't the end of the surprise... slowly turn around... and look at you dudu";
+  const surpriseText = "You are the best gift I could ever ask for. But this isn't the end of the surprise... slowly turn around... and look at you Dudu";
 
   return (
     <div className="min-h-screen flex items-center justify-center p-4 relative overflow-hidden bg-gradient-to-br from-rose-50 via-pink-50 to-purple-50">
